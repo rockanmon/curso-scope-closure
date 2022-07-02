@@ -1,5 +1,5 @@
 var a; //declarando
-var b = 'b'; //declaranmos y asignamos
+var b = 'b'; //declaramos y asignamos
 b = 'bb'; //reasignación
 var a = 'aa;' //redeclaración
 

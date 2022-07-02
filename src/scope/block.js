@@ -14,4 +14,3 @@ console.log(fruit1);
 
 fruits(); 
 
-console.log(fruit1);
